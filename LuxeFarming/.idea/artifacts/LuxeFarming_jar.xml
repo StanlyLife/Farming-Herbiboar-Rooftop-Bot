@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LuxeFarming:jar">
+    <output-path>$USER_HOME$/DreamBot/Scripts</output-path>
+    <root id="archive" name="LuxeFarming.jar">
+      <element id="module-output" name="LuxeFarming" />
+    </root>
+  </artifact>
+</component>
